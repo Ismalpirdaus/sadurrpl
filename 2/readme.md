@@ -1,3 +1,4 @@
-NIM : 1811500082
-Nama : Ismal Pirdaus
-Kelompok : TI 6A
+NIM : 1811500082<br>
+Nama : Ismal Pirdaus<br>
+Kelompok : TI 6A<br>
+<br>
